@@ -1,0 +1,89 @@
+body{
+    background-image: url(/img/fondo.png);
+}
+.my-nav{
+    background-color: #FFF9C2;
+    height: 100px;;
+}
+nav .my-btn-login{
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 0 10px;
+    
+}
+nav .my-btn-singup{
+background-color: #D2D2D2 ;
+border-radius: 15px;
+margin: 0 10px;
+}
+nav .my-dropdwon-menu{
+    background-color: #FFF9C2;
+}
+.my-carousel{
+    border: #ffffff;
+    border-width: 10px;
+    margin: 10px 0;
+}
+.my-container{
+    margin-top: 20px;   
+    }
+.my-title{
+    margin-bottom: 20px;
+    background-color: #FFF9C2;
+    padding: 10px 20px;
+    border-radius: 0 40px 40px 0;
+    justify-content: space-between;
+}
+.my-container .my-btn-new{
+    background-color: #FFF9C2;
+    border-radius: 25px;
+    align-self: center;
+}
+.anotacion{
+    font-size: 10px;
+    font-style: italic;
+}
+.new-items{
+    border: #FFF9C2;
+    border-width: 50px;
+    padding: 0;
+    margin: 1px;
+    width: 20%;
+}
+.my-card-text{
+padding: 0;
+font-size: 14px;
+text-align: justify;
+margin: 0
+}
+.menu-pizza{
+    
+    display: flex;
+    flex-direction: row;
+}
+.menu-pizza div{
+    justify-content: center;
+}
+.menu-pizza .card{
+    margin: 10px;
+}
+.menu-pizza h5{
+    background-color: #FFF9C2;
+    border-radius: 15px 0 15px 0;
+    padding: 5px;
+    border: #b7b6b6;
+    border-width: 2px;
+    border-style: dashed;
+}
+.my-footer{
+    background-color: #FFF9C2;
+    justify-content: center;
+    margin-top: 5px;
+    padding: 0;
+}
+.my-map{
+    border: #FFF9C2;
+    border-width: 10px;
+    border-style:double;
+    margin: 5px;
+}
